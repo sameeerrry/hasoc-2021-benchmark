@@ -1,0 +1,21 @@
+{
+  "test_macro_f1": 0.5833145994297005,
+  "test_macro_precision": 0.6222574896981847,
+  "test_macro_recall": 0.5973182624113476,
+  "test_binary_f1": 0.6912928759894459,
+  "test_weighted_f1": 0.5901305039301497,
+  "test_accuracy": 0.6112956810631229,
+  "model": "google/muril-base-cased",
+  "seed": 42,
+  "n_params_M": 237.56,
+  "train_time_sec": 117.2,
+  "best_epoch": 2,
+  "best_val_macro_f1": 0.6661,
+  "val_f1_per_epoch": [
+    0.4197,
+    0.6661,
+    0.6311,
+    0.6522,
+    0.6451
+  ]
+}

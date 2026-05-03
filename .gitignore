@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# DATA — not redistributable under HASOC 2021 license
+data/
+*.csv
+!results_summary.csv
+!results_summary_raw.csv
+
+# Archives
+*.rar
+*.zip
+
+# Training artifacts (checkpoints, predictions can leak data via tweet text)
+results/*/checkpoints/
+results/*/predictions.csv
+
+# Heavy figure source files (keep only PNGs)
+figures/*.svg
+figures/*.pdf
+
+# Local environment files
+.env

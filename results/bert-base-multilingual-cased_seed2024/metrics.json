@@ -1,0 +1,19 @@
+{
+  "test_loss": 0.677354097366333,
+  "test_macro_f1": 0.6330895390070922,
+  "test_macro_precision": 0.6330895390070922,
+  "test_macro_recall": 0.6330895390070922,
+  "test_binary_f1": 0.65625,
+  "test_weighted_f1": 0.6345514950166113,
+  "test_accuracy": 0.6345514950166113,
+  "test_runtime": 1.3778,
+  "test_samples_per_second": 218.467,
+  "test_steps_per_second": 7.258,
+  "epoch": 5.0,
+  "model": "bert-base-multilingual-cased",
+  "seed": 2024,
+  "n_params_M": 177.85,
+  "train_time_sec": 136.4,
+  "best_epoch": 2,
+  "best_val_macro_f1": 0.6487
+}

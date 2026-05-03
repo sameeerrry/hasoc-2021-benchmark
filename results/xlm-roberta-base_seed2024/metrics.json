@@ -1,0 +1,19 @@
+{
+  "test_loss": 0.7557631731033325,
+  "test_macro_f1": 0.647662790827304,
+  "test_macro_precision": 0.6496401259559155,
+  "test_macro_recall": 0.6474512411347517,
+  "test_binary_f1": 0.6827794561933535,
+  "test_weighted_f1": 0.6498794574118719,
+  "test_accuracy": 0.6511627906976745,
+  "test_runtime": 1.3356,
+  "test_samples_per_second": 225.372,
+  "test_steps_per_second": 7.487,
+  "epoch": 5.0,
+  "model": "xlm-roberta-base",
+  "seed": 2024,
+  "n_params_M": 278.05,
+  "train_time_sec": 161.2,
+  "best_epoch": 4,
+  "best_val_macro_f1": 0.6936
+}

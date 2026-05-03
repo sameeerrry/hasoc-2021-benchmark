@@ -1,0 +1,21 @@
+{
+  "test_macro_f1": 0.6631725586918791,
+  "test_macro_precision": 0.6814625850340137,
+  "test_macro_recall": 0.6655363475177305,
+  "test_binary_f1": 0.7247191011235955,
+  "test_weighted_f1": 0.6670575563869044,
+  "test_accuracy": 0.6744186046511628,
+  "model": "ai4bharat/IndicBERTv2-MLM-only",
+  "seed": 42,
+  "n_params_M": 278.04,
+  "train_time_sec": 266.7,
+  "best_epoch": 3,
+  "best_val_macro_f1": 0.702,
+  "val_f1_per_epoch": [
+    0.5748,
+    0.6817,
+    0.702,
+    0.673,
+    0.6902
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "test_macro_f1": 0.6634623142801157,
+  "test_macro_precision": 0.6898311048557354,
+  "test_macro_recall": 0.6673980496453901,
+  "test_binary_f1": 0.7327823691460055,
+  "test_weighted_f1": 0.667837998806534,
+  "test_accuracy": 0.6777408637873754,
+  "model": "l3cube-pune/hing-roberta",
+  "seed": 42,
+  "n_params_M": 278.05,
+  "train_time_sec": 347.8,
+  "best_epoch": 3,
+  "best_val_macro_f1": 0.7078,
+  "val_f1_per_epoch": [
+    0.6915,
+    0.6937,
+    0.7078,
+    0.7072,
+    0.696
+  ]
+}
