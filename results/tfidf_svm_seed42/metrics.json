@@ -1,0 +1,10 @@
+{
+  "test_macro_f1": 0.5840159099335962,
+  "test_macro_precision": 0.5886049723756905,
+  "test_macro_recall": 0.5853058510638298,
+  "test_binary_f1": 0.6392961876832844,
+  "test_weighted_f1": 0.5875053626819153,
+  "test_accuracy": 0.5913621262458472,
+  "model": "tfidf_svm",
+  "seed": 42
+}
