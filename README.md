@@ -220,10 +220,10 @@ If you use this code or build on these results, please cite:
 
 ```bibtex
 @misc{hasoc2021_benchmark,
-  author = {Your Name},
+  author = {Sameer Shukla, Divyansh Agarwal, Himanshu Gupta, Aarush Singla},
   title  = {HASOC 2021 Subtask 1: Multilingual Transformer Benchmark},
   year   = {2026},
-  url    = {https://github.com/<your-username>/<repo-name>},
+  url    = {https://github.com/sameeerrry/hasoc-2021-benchmark},
 }
 ```
 
